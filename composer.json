@@ -1,0 +1,13 @@
+{
+  "name": "rugpanov/first",
+  "description": "Library first",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Grigory Panov  ",
+      "email": "rugpanov@example.com"
+    }
+  ],
+  "require": {}
+}
