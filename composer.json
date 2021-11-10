@@ -1,5 +1,5 @@
 {
-  "name": "rugpanov/first",
+  "name": "rugpanov/first2",
   "description": "Library first",
   "type": "library",
   "license": "GPL-3.0-only",
@@ -9,5 +9,20 @@
       "email": "rugpanov@example.com"
     }
   ],
-  "require": {}
+  "require": {
+      "rugpanov/first": "dev-master",
+      "symfony/http-kernel": "1.0.4"
+  },
+  "repositories": {
+    "packagist.org": false,
+    "space-composer": {
+      "type": "composer",
+      "url": "http://localhost:8390/php/p/mp/php/"
+    }
+  },
+  "keywords": [
+    "first-tag",
+    "second-tag",
+    "third-tag"
+  ]
 }
