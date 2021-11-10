@@ -9,5 +9,10 @@
       "email": "rugpanov@example.com"
     }
   ],
-  "require": {}
+  "require": {},
+  "keywords": [
+    "first-tag",
+    "second-tag",
+    "third-tag"
+  ]
 }
